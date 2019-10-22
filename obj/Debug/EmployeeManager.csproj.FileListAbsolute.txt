@@ -1,0 +1,36 @@
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.login.resources
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.main.resources
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.Cache
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.delete_data.resources
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.login.resources
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.main.resources
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+D:\Doc_Net\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.delete_data.resources
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\MySql.Data.dll
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\Google.Protobuf.dll
+C:\Users\nguyk\OneDrive\Documents\Visual Studio 2015\Projects\EmployeeManager\EmployeeManager\bin\Debug\MySql.Data.xml
+D:\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+D:\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+D:\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+D:\EmployeeManager\EmployeeManager\bin\Debug\Google.Protobuf.dll
+D:\EmployeeManager\EmployeeManager\bin\Debug\MySql.Data.xml
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.delete_data.resources
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.login.resources
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.main.resources
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+D:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
